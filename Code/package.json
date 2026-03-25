@@ -2,7 +2,8 @@
   "name": "lechat-mistral-theme",
   "displayName": "LeChat Mistral Theme",
   "description": "Un thème imitant la syntaxe du code générer par l'ia LeChat de Mistral.",
-  "version": "1.1.0",
+  "version": "1.1.1",
+  "icon": "LeChat-MistralAi-Logo.png",
   "engines": {
     "vscode": "^1.85.0"
   },
